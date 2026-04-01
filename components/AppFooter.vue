@@ -85,7 +85,7 @@
 
       <div class="border-t border-border mt-8 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
         <p class="text-text-muted text-sm">
-          © 2026 凯普软件 版权所有
+          © 2026 凯普软件 版权所有 | <a href="https://beian.miit.gov.cn/" target="_blank" class="hover:text-primary">粤ICP备13041060号</a>
         </p>
         <div class="flex items-center gap-6">
           <a href="#" class="text-text-secondary hover:text-primary transition-colors text-sm">
